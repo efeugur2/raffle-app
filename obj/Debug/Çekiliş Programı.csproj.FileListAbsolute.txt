@@ -1,0 +1,5 @@
+C:\Users\kurna\Documents\SharpDevelop Projects\projem\Çekiliş Programı\bin\Debug\Çekiliş Programı.exe
+C:\Users\kurna\Documents\SharpDevelop Projects\projem\Çekiliş Programı\bin\Debug\Çekiliş Programı.pdb
+C:\Users\kurna\Documents\SharpDevelop Projects\projem\Çekiliş Programı\obj\Debug\Çekiliş Programı.csprojResolveAssemblyReference.cache
+C:\Users\kurna\Documents\SharpDevelop Projects\projem\Çekiliş Programı\obj\Debug\Çekiliş Programı.exe
+C:\Users\kurna\Documents\SharpDevelop Projects\projem\Çekiliş Programı\obj\Debug\Çekiliş Programı.pdb
